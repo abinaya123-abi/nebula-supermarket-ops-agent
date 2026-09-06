@@ -1,0 +1,3 @@
+python-dotenv==1.1
+google-adk==0.1.*
+tenacity>=9
